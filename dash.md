@@ -8,6 +8,7 @@
   -  [bootswatch](https://bootswatch.com/)
   -  [link](https://dash-bootstrap-components.opensource.faculty.ai/docs/themes/)
 - Time animated graph
+- Try bootstrap cards
 - Dash table
 ```
 filter_action="native",
