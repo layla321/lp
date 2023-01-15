@@ -1,0 +1,17 @@
+name: tc3
+channels:
+  - conda-forge
+  - anaconda
+  - pytorch
+  - HuggingFace
+dependencies:
+  - python=3.10
+  - pandas
+  - transformers
+  - datasets
+  - numpy
+  - jupyter
+  - ipykernel
+  - evaluate
+  - scikit-learn
+  - shap
