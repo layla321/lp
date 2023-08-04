@@ -1,0 +1,7 @@
+name: dash-template
+channels:
+- anaconda
+- conda-forge
+dependencies:
+- python
+- dash
